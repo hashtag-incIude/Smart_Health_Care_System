@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62330801903",
+    "project_id": "smart-health-care-system-bdbfa",
+    "storage_bucket": "smart-health-care-system-bdbfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62330801903:android:caa3776f65c006ef50551a",
+        "android_client_info": {
+          "package_name": "com.ak.smarthealthcaresystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62330801903-gaoogd9qff4v6lut3vocfmnfjrid0rv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJMV1EzgQ52aKOu2weogv3XI-LKmY_b8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62330801903-gaoogd9qff4v6lut3vocfmnfjrid0rv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

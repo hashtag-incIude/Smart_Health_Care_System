@@ -1,0 +1,29 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="icon">@dimen/_35sdp</dimen>
+    <dimen name="padding_icon">@dimen/_3sdp</dimen>
+    <dimen name="header_text_size">@dimen/_18sdp</dimen>
+    <dimen name="_30sdp">30dp</dimen>
+    <dimen name="_35sdp">35dp</dimen>
+    <dimen name="_3sdp">3dp</dimen>
+    <dimen name="_18sdp">18dp</dimen>
+    <dimen name="_5sdp">5dp</dimen>
+    <dimen name="_45sdp">45dp</dimen>
+    <dimen name="_10sdp">10dp</dimen>
+    <dimen name="_14sdp">14dp</dimen>
+    <dimen name="_80sdp">80dp</dimen>
+    <dimen name="_12sdp">12dp</dimen>
+    <dimen name="_300sdp">300dp</dimen>
+    <dimen name="_120sdp">120dp</dimen>
+    <dimen name="_20sdp">20dp</dimen>
+    <dimen name="_7sdp">7dp</dimen>
+    <dimen name="_8sdp">8dp</dimen>
+    <dimen name="_25sdp">25dp</dimen>
+    <dimen name="_2sdp">2dp</dimen>
+    <dimen name="_15sdp">15dp</dimen>
+    <dimen name="_16sdp">16dp</dimen>
+    <dimen name="_40sdp">40dp</dimen>
+    <dimen name="_13sdp">13dp</dimen>
+    <dimen name="_60sdp">60dp</dimen>
+    <dimen name="_50sdp">50dp</dimen>
+</resources>
